@@ -1,2 +1,2 @@
-# Trabalho-Final-Programacao-C
-Jogo Batalha Naval feito em linguagem C.
+## naval-battle-game
+Naval battle game made in C.
